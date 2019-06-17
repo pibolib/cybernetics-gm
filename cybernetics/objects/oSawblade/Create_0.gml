@@ -1,0 +1,10 @@
+ref = -1;
+startY = y;
+startX = x;
+moveX = 0;
+moveRateX = 1;
+moveY = 0;
+moveRateY = 1;
+time = x+y;
+spd = 8;
+depth = 400;

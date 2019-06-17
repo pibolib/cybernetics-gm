@@ -1,0 +1,15 @@
+time = irandom(16);
+yOff = 0;
+onDeath = -1;
+itemId = 0;
+initiated = false;
+value = 0;
+bgScale = 0.8;
+bgAngle = 0;
+hsp = 0;
+vsp = 0;
+invun = 0;
+xscale = 1;
+yscale = 1;
+angle = 0;
+alpha = 1;

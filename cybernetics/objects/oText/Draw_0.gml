@@ -1,0 +1,13 @@
+draw_set_halign(fa_center);
+draw_set_valign(fa_center);
+draw_set_font(fGameSmall);
+for(i=-1;i<=1;i++)
+{
+	for(j=-1;j<=1;j++)
+	{
+		draw_text_color(x+i,y+j,word,c_black,c_black,c_black,c_black,image_alpha);
+	}
+}
+draw_text_color(x,y,word,color,color,color,color,image_alpha);
+draw_set_valign(fa_left);
+draw_set_halign(fa_left);

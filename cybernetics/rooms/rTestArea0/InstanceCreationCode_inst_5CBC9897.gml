@@ -1,0 +1,1 @@
+itemId = item.keyGold;

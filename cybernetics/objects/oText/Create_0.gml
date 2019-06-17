@@ -1,0 +1,9 @@
+word = "";
+mode = textType.static;
+gtx = x;
+gty = y;
+initiated = false;
+flickerTime = 120;
+color = c_white;
+startFlicker = 0;
+amt = 1;
